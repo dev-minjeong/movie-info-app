@@ -1,3 +1,4 @@
+/* 
 import {
   BrowserRouter as Router,
   Route,
@@ -12,7 +13,7 @@ function App() {
   return (
     <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
-        <Route path={`${process.env.PUBLIC_URL}/`} element={<Home />}></Route>
+        <Route path="/" element={<Home />}></Route>
         <Route path="/movie/:id" element={<Detail />}></Route>
       </Routes>
     </BrowserRouter>
@@ -20,3 +21,4 @@ function App() {
 }
 
 export default App;
+ */

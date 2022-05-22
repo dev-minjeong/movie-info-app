@@ -1,3 +1,4 @@
+/* 
 import PropTypes from "prop-types";
 import { Link } from "react-router-dom";
 
@@ -28,3 +29,4 @@ Movie.protoTypes = {
 };
 
 export default Movie;
+ */
