@@ -1,3 +1,3 @@
 # movie-info-app
 
-#### This project is a website that introduces movie information made with React.
+#### 영화 정보 웹사이트를 만들어 리액트 실습 공부를 하기 위한 프로젝트입니다
